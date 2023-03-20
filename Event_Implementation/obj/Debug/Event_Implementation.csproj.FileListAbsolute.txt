@@ -1,0 +1,6 @@
+F:\Event_Implementation\Event_Implementation\bin\Debug\Event_Implementation.exe.config
+F:\Event_Implementation\Event_Implementation\obj\Debug\Event_Implementation.csprojResolveAssemblyReference.cache
+F:\Event_Implementation\Event_Implementation\bin\Debug\Event_Implementation.exe
+F:\Event_Implementation\Event_Implementation\bin\Debug\Event_Implementation.pdb
+F:\Event_Implementation\Event_Implementation\obj\Debug\Event_Implementation.exe
+F:\Event_Implementation\Event_Implementation\obj\Debug\Event_Implementation.pdb

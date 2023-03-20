@@ -1,0 +1,2 @@
+F:\Event_Implementation\Event_Inheritance\bin\Debug\Event_Inheritance.exe.config
+F:\Event_Implementation\Event_Inheritance\obj\Debug\Event_Inheritance.csprojResolveAssemblyReference.cache
